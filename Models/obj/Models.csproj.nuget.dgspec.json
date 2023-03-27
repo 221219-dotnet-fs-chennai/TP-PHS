@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\PHS-Pipeline\\TP-PHS\\Models\\Models.csproj": {}
+    "E:\\capstone\\Team-Perseverance\\PatientHealthRecordServices\\MicroService_PHR_Api\\PHRservice\\Models\\Models.csproj": {}
   },
   "projects": {
-    "E:\\PHS-Pipeline\\TP-PHS\\Models\\Models.csproj": {
+    "E:\\capstone\\Team-Perseverance\\PatientHealthRecordServices\\MicroService_PHR_Api\\PHRservice\\Models\\Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\PHS-Pipeline\\TP-PHS\\Models\\Models.csproj",
+        "projectUniqueName": "E:\\capstone\\Team-Perseverance\\PatientHealthRecordServices\\MicroService_PHR_Api\\PHRservice\\Models\\Models.csproj",
         "projectName": "Models",
-        "projectPath": "E:\\PHS-Pipeline\\TP-PHS\\Models\\Models.csproj",
+        "projectPath": "E:\\capstone\\Team-Perseverance\\PatientHealthRecordServices\\MicroService_PHR_Api\\PHRservice\\Models\\Models.csproj",
         "packagesPath": "C:\\Users\\godavarthi yasaswini\\.nuget\\packages\\",
-        "outputPath": "E:\\PHS-Pipeline\\TP-PHS\\Models\\obj\\",
+        "outputPath": "E:\\capstone\\Team-Perseverance\\PatientHealthRecordServices\\MicroService_PHR_Api\\PHRservice\\Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\godavarthi yasaswini\\AppData\\Roaming\\NuGet\\NuGet.Config",
